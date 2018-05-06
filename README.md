@@ -1,6 +1,6 @@
 # css-video-background
 
-This project show how to create a video background page using CSS.
+This project shows how to create a video background page using CSS.
 
 ## Development server
 
